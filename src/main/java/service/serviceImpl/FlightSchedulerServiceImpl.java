@@ -9,7 +9,7 @@ public class FlightSchedulerServiceImpl implements FlightSchedulerService {
     @Override
     public String userInfo(String destination, String departure) {
 
-    }
+    return "Stub";}
 
 
 }

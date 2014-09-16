@@ -13,11 +13,7 @@ import java.util.Scanner;
 public class CommandLine {
     private Scanner scanner;
 
-    @Autowired
-    void getArgs((@Value(System.in))Scanner scanner)
-    {
-        Scanner scanner1 = new S
-    }
+
 
 
 }

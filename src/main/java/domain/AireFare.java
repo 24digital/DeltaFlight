@@ -15,5 +15,5 @@ public class AireFare {
     @Autowired
     Float calculateFare(States travel){
 
-    };
+    return 0.0f;};
 }

@@ -10,5 +10,5 @@ import java.io.IOException;
  * Created by Marion on 9/15/2014.
  */
 public interface Query {
-    String getValue(String URI,String query, String object) throws IOException, ParserConfigurationException, SAXException, XPathExpressionException;
+    String getValue(String URI,String query, String object, String nam) throws IOException, ParserConfigurationException, SAXException, XPathExpressionException;
 }
